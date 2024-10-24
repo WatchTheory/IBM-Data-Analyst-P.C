@@ -1,1 +1,1 @@
-# IBM-Data-Analyst-P.C
+# IBM-Data-Analyst-Professional Certification
