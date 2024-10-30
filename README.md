@@ -1,18 +1,18 @@
 # IBM-Data-Analyst-Professional Certification
 
-IBM Data Analysts Portfolio
+#### IBM Data Analysts Portfolio
 
 - Hi I'm Kevin, an aspiring data analyst with a growing skillset in Excel spreadsheets,  Python, Pandas, Matplotlib, SQL and Data Visualization. I'm eager to apply my knowledge and contribute to meaningful projects.
 - I am currently working on completing IBM Data Analysts Professional Certification and expected completion is November 2024
 
-Project Highlights
+#### Project Highlights
 - Capstone Project (In Progress)
 	- Project Overview
 - Tools Used : 
 - Key Findings 
 - Project Link 
 
-Hands-On Labs:
+#### Hands-On Labs:
 - Python Project for D.S 
 	- Analyzing Historical Stocks/Revenue Data and Building Dashboard  
 	- Extracting Stocks Data using Web Scrapping
