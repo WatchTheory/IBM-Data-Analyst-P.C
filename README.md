@@ -2,7 +2,7 @@
 
 IBM Data Analysts Portfolio
 
-- I'm Kevin, an aspiring data analyst with a growing skillset in Excel spreadsheets,  Python, Pandas, Matplotlib, SQL and Data Visualization. I'm eager to apply my knowledge and contribute to meaningful projects.
+- Hi I'm Kevin, an aspiring data analyst with a growing skillset in Excel spreadsheets,  Python, Pandas, Matplotlib, SQL and Data Visualization. I'm eager to apply my knowledge and contribute to meaningful projects.
 - I am currently working on completing IBM Data Analysts Professional Certification and expected completion is November 2024
 
 Project Highlights
